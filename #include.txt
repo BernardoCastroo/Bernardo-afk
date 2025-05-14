@@ -1,1 +1,10 @@
-#include<
+#include<stdio>
+
+
+
+
+int main
+{
+    printf("snow gay");
+    return 0.
+}
